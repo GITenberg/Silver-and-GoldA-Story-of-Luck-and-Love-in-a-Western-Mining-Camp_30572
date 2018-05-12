@@ -1,0 +1,29 @@
+_repo: Silver-and-GoldA-Story-of-Luck-and-Love-in-a-Western-Mining-Camp_30572
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coolidge, Dane
+    birthdate: 1873
+    deathdate: 1940
+    gutenberg_agent_id: '9069'
+    url: http://www.gutenberg.org/2009/agents/9069
+description: ''
+gutenberg_issued: '2009-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30572'
+  lccn: '19013645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Silver mines and mining -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Gold mines and mining -- Fiction'
+title: 'Silver and Gold: A Story of Luck and Love in a Western Mining Camp'
+url: http://www.gutenberg.org/ebooks/30572
